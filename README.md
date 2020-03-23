@@ -25,7 +25,7 @@ For the Portfolio assignment, I've created my page using HTML, CSS, and Github t
 Before Image:
 ======
 
-![Mockup Image](/assets/images/Mockup.gif)
+![Mockup Image](/assets/images/mockup.gif)
 
 
 After Image:
