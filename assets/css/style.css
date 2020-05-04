@@ -151,6 +151,11 @@ header nav ul li a {
     height: 400px;
 }
 
+.ProjectsGridItemSample1Txt, #JakEatsBtn{
+  color: black;
+}
+
+
 .ProjectsGridItemTxt {
     text-align: center;
     background-color: crimson;
@@ -169,8 +174,8 @@ header nav ul li a {
     width: 200px;
     padding: 12px 48px;
     text-align: center;
-    color: white;
-    border: solid 2px white;
+    color: black;
+    border: solid 2px black;
     z-index: 1;
 }
 
@@ -195,7 +200,7 @@ header nav ul li a {
   .ProjectsGridItemSample1 {
     grid-column: 3/4;
     grid-row: 1/2;
-    background-image: url(../images/coding.jpg);
+    background-image: url(../images/JAK.gif);
     background-size: cover;
     height: 100%;
   }
