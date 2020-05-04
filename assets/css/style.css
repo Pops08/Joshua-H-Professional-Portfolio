@@ -151,7 +151,7 @@ header nav ul li a {
     height: 400px;
 }
 
-.ProjectsGridItemSample1Txt, #JakEatsBtn{
+.ProjectsGridItemSample1Txt{
   color: black;
 }
 
@@ -200,7 +200,7 @@ header nav ul li a {
   .ProjectsGridItemSample1 {
     grid-column: 3/4;
     grid-row: 1/2;
-    background-image: url(../images/JAK.gif);
+    background-image: url(../images/JAK.png);
     background-size: cover;
     height: 100%;
   }
