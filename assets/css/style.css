@@ -208,7 +208,7 @@ header nav ul li a {
   .ProjectsGridItemSample2 {
     grid-column: 3/4;
     grid-row: 2/3;
-    background-image: url(../images/coding.jpg);
+    background-image: url(../images/TechStopNShop.png);
     background-size: cover;
     height: 100%;
   }
